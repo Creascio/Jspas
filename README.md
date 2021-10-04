@@ -4,7 +4,7 @@ Voici toutes les énoncés disponibles !
 
 ## Organisation
 
-Chaque énoncé possède le nom de l'issue auquel elle est associé. Vous devez copier le dossier de l'énoncé qui vous interesse et le coller dans la branche `master` dans le dossier à votre nom.
+Chaque énoncé possède le nom de l'issue auquel elle est associée. Vous devez copier le dossier de l'énoncé qui vous interesse et le coller dans la branche `master` dans le dossier à votre nom.
 
 Pour cela, vous pouvez copier la branche entiere dans un zip ou simplement aller dans les fichiers énoncés (généralement pas nombreux) et copier leur contenu dans le dossier à votre nom.
 
