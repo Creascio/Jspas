@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(29, 29, 39);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Arial;
+  color: rgb(202, 202, 183);
+}
+
+.reactivText {
+  padding-top: 10px;
+  text-align: left;
+}
