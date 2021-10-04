@@ -12,6 +12,8 @@ Les projets ont généralement deux **labels** :
 
 *Ps: Il n'y a pas encore de projet pour les avancés*
 
+Remaque : Vous pouvez créer une `Issue` si vous avez une idée d'exercice même si vous ne savez pas comment le réaliser.
+
 ## Organisation
 
 Pour travailler sur ce projet vous devez créer un fichier à votre nom sous ce format : nom-pseudo
