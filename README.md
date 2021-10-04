@@ -4,7 +4,7 @@ Voici votre terrain d'entrainement pour apprendre le JS ainsi que ses dérivés 
 
 ## Projets
 
-Vous avez des projets plus ou moins détaillés à disposition dans l'onglet : Issues
+Vous avez des projets plus ou moins détaillés à disposition dans l'onglet `Issues`
 
 Les projets ont généralement deux **labels** : 
 - Le premier indique la durée (court, moyen, long)
@@ -19,6 +19,20 @@ Pour travailler sur ce projet vous devez créer un fichier à votre nom sous ce 
 
 Ensuite à l'intérieur, vous pourrez organiser vos projets comme vous voulez. 
 On vous conseille tout de même de faire un dossier par projet, histoire que vous ne soyez pas trop perdu.
+
+### Faire un projet
+
+Lorsque vous voulez commencer un projet, vous pouvez créer un projet dans l'onglet `Projects`
+Nommez le comme votre dossier et prener comme template le `basic kanban`
+
+Ensuite lorsque vous êtes dans votre projet cliquer sur `Add card` et choisissez l'exercice que vous voulez faire.
+Cela le mettra dans la colone `Todo` comme ci-dessous
+
+![image](https://user-images.githubusercontent.com/59747311/135825454-37c83572-f7c5-4e01-93b0-4c43ea00241e.png)
+
+Une fois que vous l'avez commencé vous pouvez le faire glisser dans la colonne `In progress`.
+
+Et lorsque vous avez fini vous pouvez le faire glisser dans la colonne `Done`
 
 ## Conseils
 
