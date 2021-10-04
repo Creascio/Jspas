@@ -22,8 +22,8 @@ On vous conseille tout de même de faire un dossier par projet, histoire que vou
 
 ### Faire un projet
 
-Lorsque vous voulez commencer un projet, vous pouvez créer un projet dans l'onglet `Projects`
-Nommez le comme votre dossier et prener comme template le `basic kanban`
+Lorsque vous voulez commencer un projet, vous pouvez créer un projet dans l'onglet `Projects`.
+Nommez le comme votre dossier et prenez comme template le `basic kanban`
 
 Ensuite lorsque vous êtes dans votre projet cliquer sur `Add card` et choisissez l'exercice que vous voulez faire.
 Cela le mettra dans la colone `Todo` comme ci-dessous
