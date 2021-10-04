@@ -1,27 +1,13 @@
-# Jspas - Apprendre le JS 
+# Jspas - Apprendre le JS (Enoncés)
 
-Voici votre terrain d'entrainement pour apprendre le JS ainsi que ses dérivés (framework, bibliotheque, ...) !
-
-## Projets
-
-Vous avez des projets plus ou moins détaillés à disposition dans l'onglet : Issues
-
-Les projets ont généralement deux **labels** : 
-- Le premier indique la durée (court, moyen, long)
-- Le second indique le niveau nécessaire pour le projet (débutant, avancé)
-
-*Ps: Il n'y a pas encore de projet pour les avancés*
+Voici toutes les énoncés disponibles !
 
 ## Organisation
 
-Pour travailler sur ce projet vous devez créer un fichier à votre nom sous ce format : nom-pseudo
-(exemple : sofia-shiro)
+Chaque énoncé possède le nom de l'issue auquel elle est associé. Vous devez copier le dossier de l'énoncé qui vous interesse et le coller dans la branche `master` dans le dossier à votre nom.
 
-Ensuite à l'intérieur, vous pourrez organiser vos projets comme vous voulez. 
-On vous conseille tout de même de faire un dossier par projet, histoire que vous ne soyez pas trop perdu.
+Pour cela, vous pouvez copier la branche entiere dans un zip ou simplement aller dans les fichiers énoncés (généralement pas nombreux) et copier leur contenu dans le dossier à votre nom.
 
-## Conseils
-
-N'hésitez pas à vous appuyez sur nos cours de Creascio, sur le web en general et si vous avez besoin d'indication ou d'aide nous sommes sur le discord ! 😉
+Si vous ne comprenez pas une énoncés, dites le nous sur le discord !
 
 Amusez vous bien !
