@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(29, 29, 39);
+  color: rgb(202, 202, 183);
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  flex-grow: 6;
+  margin: 0 20px;
+}
+
+.red {
+  background-color: rgb(255, 62, 62);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin-left: 6px
+}
+
+button {
+  border: solid 2px rgb(83, 83, 107) ;
+  border-radius: 4px;
+  color:rgb(202, 202, 183);
+  background-color: rgb(83, 83, 107);
+  font-weight: bold;
+}
+
+.title {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+li {
+  margin-bottom: 6px
+}
+
+#filter {
+  margin-top: 10px;
+}
