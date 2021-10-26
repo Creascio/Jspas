@@ -1,0 +1,65 @@
+body {
+  background-color: rgb(29, 29, 39);
+  color: rgb(202, 202, 183);
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.container {
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-around;
+}
+
+.box {
+  margin: 18px;
+  padding: 12px;
+  border: solid 3px rgb(202, 202, 183);
+  border-radius: 6px;
+  width: 200px;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: bold;
+  padding-bottom: 6px;
+  border-bottom: solid 2px rgba(183, 187, 202, 0.514);
+  display: flex;
+  justify-content: space-between;
+}
+
+.description {
+  font-size: 14px;
+  color:rgb(178, 180, 189);
+  padding: 8px 0;
+}
+
+label {
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+#form {
+  width: 260px;
+  margin-top: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px
+}
+
+.remove {
+  color: rgb(235, 70, 70);
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+}
+
+.remove:hover {
+  background-color: rgba(211, 136, 118, 0.281);
+  border-radius: 5px;
+}

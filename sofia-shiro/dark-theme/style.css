@@ -1,0 +1,31 @@
+.dark {
+  background-color: rgb(26, 27, 41);
+  color: rgb(215, 218, 255);
+}
+
+.dark .card {
+  margin-top: 10px;
+  padding: 10px;
+  border: solid 3px rgb(215, 218, 255)
+}
+
+.dark button {
+  background-color: rgb(215, 218, 255);
+  color: rgb(26, 27, 41);
+}
+
+.light {
+  background-color: rgb(215, 218, 255);
+  color: rgb(26, 27, 41);
+}
+
+.light .card {
+  margin-top: 10px;
+  padding: 10px;
+  border: solid 3px rgb(26, 27, 41)
+}
+
+.light button {
+  background-color: rgb(26, 27, 41);
+  color: rgb(215, 218, 255);
+}
