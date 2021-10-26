@@ -1,12 +1,31 @@
+body {
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+button {
+  font-weight: bold;
+  border: none;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+/* Code a faire */
+
 .dark {
   background-color: rgb(26, 27, 41);
   color: rgb(215, 218, 255);
 }
 
 .dark .card {
-  margin-top: 10px;
-  padding: 10px;
-  border: solid 3px rgb(215, 218, 255)
+  border: solid 3px rgb(215, 218, 255);
 }
 
 .dark button {
@@ -20,9 +39,7 @@
 }
 
 .light .card {
-  margin-top: 10px;
-  padding: 10px;
-  border: solid 3px rgb(26, 27, 41)
+  border: solid 3px rgb(26, 27, 41);
 }
 
 .light button {

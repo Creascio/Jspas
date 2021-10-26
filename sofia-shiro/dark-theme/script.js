@@ -1,10 +1,19 @@
+let btn = null;
+
 const changeTheme = () => {
   if(document.body.className === 'dark') {
-    console.log('light')
     document.body.className = 'light'
+    btn.innerHTML = 'Dark Theme'
   }
   else {
-    console.log('dark')
     document.body.className = 'dark'
+    btn.innerHTML = 'Light Theme'
   }
 }
+
+const pageLoaded = () => {
+  btn = document.getElementById('btn')
+  btn.addEventListener('click', changeTheme)
+}
+
+window.addEventListener('load', pageLoaded)
